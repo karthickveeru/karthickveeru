@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthickveeru
 - 👀 I’m interested in developing software for CRM, OM, and Business Automation
 - 🌱 I’m currently learning  AWS
-- 💞️ I’m looking to collaborate on any project which required python backend | react | docker
+- 💞️ I’m looking to collaborate on any project which required python backend | Javscript | react | docker
 - 📫 How to reach me karthickveeru92@gmail.com
 
 <!---
